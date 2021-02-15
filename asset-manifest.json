@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-city-tours/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-city-tours/static/js/main.2dcf6273.chunk.js",
+    "main.js.map": "/react-city-tours/static/js/main.2dcf6273.chunk.js.map",
+    "runtime-main.js": "/react-city-tours/static/js/runtime-main.b2b7577e.js",
+    "runtime-main.js.map": "/react-city-tours/static/js/runtime-main.b2b7577e.js.map",
+    "static/js/2.a71dd9f8.chunk.js": "/react-city-tours/static/js/2.a71dd9f8.chunk.js",
+    "static/js/2.a71dd9f8.chunk.js.map": "/react-city-tours/static/js/2.a71dd9f8.chunk.js.map",
+    "static/js/3.7a45ba27.chunk.js": "/react-city-tours/static/js/3.7a45ba27.chunk.js",
+    "static/js/3.7a45ba27.chunk.js.map": "/react-city-tours/static/js/3.7a45ba27.chunk.js.map",
+    "index.html": "/react-city-tours/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-city-tours/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a71dd9f8.chunk.js.LICENSE.txt": "/react-city-tours/static/js/2.a71dd9f8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-city-tours/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2b7577e.js",
+    "static/js/2.a71dd9f8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2dcf6273.chunk.js"
+  ]
+}
